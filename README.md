@@ -1,6 +1,4 @@
-<a href="https://rishavchanda.io">
-  <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" alt="MasterHead" width="600" height="300">
-</a>
+
 <h1 align="center">Hi 👋, I'm Samay Powade</h1>
 <h3 align="center">Passionate about Data Science And Generative AI,</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
