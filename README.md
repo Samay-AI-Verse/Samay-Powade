@@ -1,9 +1,9 @@
-<img width="817" height="369" alt="image" src="https://github.com/user-attachments/assets/19af1bc8-e70c-4be6-a391-2db08c9ebec3" /><h1 align="center">Hi 👋, I'm Samay Powade</h1>
+<h1 align="center">Hi 👋, I'm Samay Powade</h1>
 <h3 align="center">🚀 Data Science | Generative AI | Full-Stack Development | Backend Engineering</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samay-verse&label=Profile%20views&color=0e75b6&style=flat" alt="samay-verse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Samay-Verse&label=Profile%20views&color=0e75b6&style=flat" alt="Samay-Verse" /> </p>
 
 ---
 
@@ -18,6 +18,7 @@
 ---
 
 ### 🌟 Tech Stack & Tools  
+
 #### 💻 Programming & Backend  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
@@ -47,6 +48,13 @@
 
 ---
 
+### 📂 Featured Projects
+- 🛡 **[Women’s Safety AI](https://github.com/Samay-Verse/VandanaAIVerse.git)** – AI-powered safety app for women  
+- 🤖 **Generative AI Experiments** – LLMs, text-to-image, and chatbot applications  
+- 🌐 **Full-Stack Projects** – MERN + FastAPI + SQL/NoSQL integrations  
+
+---
+
 ### 🌐 Connect with Me  
 <p align="left">
 <a href="https://linkedin.com/in/samay-p-103259269" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
@@ -56,9 +64,9 @@
 
 ---
 
-### 📈 GitHub Stats  
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samay-verse&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay-verse&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samay-verse&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samay-Verse&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samay-Verse&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samay-Verse&layout=compact&theme=tokyonight" alt="langs" />
 </p>
