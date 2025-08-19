@@ -72,6 +72,6 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samay-AI-Verse&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samay-AI--Verse&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samay-AI-Verse&theme=tokyonight" alt="streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samay-AI-Verse&layout=compact&theme=tokyonight" alt="langs" />
 </p>
