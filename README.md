@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm Samay Powade</h1>
+# <h1 align="center">Hi 👋, I'm Samay Powade</h1>
 <h3 align="center">🚀 AI Engineer | Generative AI Specialist | Full-Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<p align="right">
+  <img src="https://github.com/Samay-AI-Verse.png" alt="Samay Powade" width="220"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Samay-Verse&label=Profile%20views&color=0e75b6&style=flat" alt="Samay-Verse" /> </p>
+<p align="center">
+  [![GitHub stars](https://img.shields.io/github/stars/Samay-AI-Verse/Samay-Powade?style=flat&logo=github)](https://github.com/Samay-AI-Verse/Samay-Powade/stargazers)
+  [![Last Commit](https://img.shields.io/github/last-commit/Samay-AI-Verse/Samay-Powade?style=flat)](https://github.com/Samay-AI-Verse/Samay-Powade/commits)
+  [![License](https://img.shields.io/github/license/Samay-AI-Verse/Samay-Powade?style=flat)](https://github.com/Samay-AI-Verse/Samay-Powade/blob/main/LICENSE)
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Samay-AI-Verse&label=Profile%20views&color=0e75b6&style=flat" alt="Samay-AI-Verse" /> </p>
 
 ---
 
@@ -19,30 +27,16 @@
 ---
 
 ### ⚡ Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **AI / ML / Data Science** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
-| **Generative AI & NLP** | ![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=flat&logo=openai&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-34B7AF?style=flat) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat) |
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat) |
-| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Database & DevOps** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+- Python • FastAPI • PyTorch • React • Flutter • MySQL • Firebase • Docker • GitHub Actions
 
 ---
 
 ### 📂 Featured Projects
 - 🛡 **[Women’s Safety AI](https://github.com/Samay-Verse/VandanaAIVerse.git)** – AI-powered ecosystem designed for real-time safety monitoring and emergency response.
-- 🤖 Sarathi Astra – An advanced NotebookLM-style RAG system for document intelligence.
-Allows users to upload PDFs, research papers, and internal docs and interact with them through contextual Q&A, summaries, citations, and insight extraction using vector databases and LLMs.
-
-- 🧠 ChetanaLabs (HR Calling Assistant) – An AI-powered HR voice assistant that automates candidate screening and calling workflows.
-Handles outbound calls, interview scheduling, candidate intent detection, call summaries, and HR dashboard integration using speech recognition, NLP, and conversational AI.
-
-- 🌙 Dream Weaver – A creative AI system for idea generation, storytelling, and product ideation.
-Combines structured memory with LLM reasoning to assist creators, founders, and teams in building narratives, concepts, and long-form content.
-
-- 🚁 Trinetra Drone App & Intelligent System – An end-to-end AI-enabled drone ecosystem.
-Includes a mobile/web control app, real-time telemetry, live video streaming, and AI-based vision modules for surveillance, object detection, navigation assistance, and mission analytics. Designed for defense, disaster response, and industrial inspection use cases.
+- 🤖 **Sarathi Astra** – NotebookLM-style RAG system for document intelligence (PDFs, research papers, internal docs) with contextual Q&A, summaries, citations, and vector DB.
+- 🧠 **ChetanaLabs (HR Calling Assistant)** – AI voice assistant automating candidate screening and calling workflows with intent detection and call summaries.
+- 🌙 **Dream Weaver** – Creative AI system for idea generation, storytelling, and product ideation.
+- 🚁 **Trinetra Drone App & Intelligent System** – AI-enabled drone ecosystem with mobile/web control, real-time telemetry, and vision modules.
 
 ---
 
