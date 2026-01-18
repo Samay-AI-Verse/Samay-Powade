@@ -213,17 +213,7 @@
 - [Real-time Object Detection with YOLO and OpenCV](https://medium.com/@samaypowade/real-time-object-detection-with-yolo-and-opencv-345678)
 <!-- BLOG-POST-LIST:END -->
 
----
 
-## 🏆 Achievements & Certifications
-
-- 🥇 **Google AI Hackathon 2024** - Winner (AI Safety Category)
-- 📜 **Deep Learning Specialization** - DeepLearning.AI (Coursera)
-- 🏅 **AWS Certified Solutions Architect** - Associate Level
-- 🎖️ **Microsoft AI Engineer** - Certified Professional
-- 🥈 **Smart India Hackathon 2023** - First Runner-up
-
----
 
 ## 📊 Contribution Graph
 
