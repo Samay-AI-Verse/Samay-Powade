@@ -107,10 +107,7 @@
       <img width="900" height="1" alt="">
     </td>
   </tr>
-  <tr>
-    <th>💡 Coding Habits & Activity</th>
-    <th>🏆 Achievements</th>
-  </tr>
+
   <tr>
     <td align="center">
       <details open><summary>Development Patterns</summary>
@@ -371,43 +368,7 @@
   
 </div>
 
----
 
-## 🏆 Achievements & Certifications
-
-<table>
-  <tr>
-    <th>🥇 Competitions</th>
-    <th>📜 Certifications</th>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>🥇 <b>Google AI Hackathon 2024</b> - Winner (AI Safety)</li>
-        <li>🥈 <b>Smart India Hackathon 2023</b> - First Runner-up</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>📜 <b>Deep Learning Specialization</b> - DeepLearning.AI</li>
-        <li>☁️ <b>AWS Solutions Architect</b> - Associate</li>
-        <li>🤖 <b>Microsoft AI Engineer</b> - Certified Professional</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Intelligent RAG Systems with LangChain](https://medium.com/@samaypowade/building-intelligent-rag-systems-with-langchain-123456)
-- [From Zero to Hero: My Journey into AI Engineering](https://medium.com/@samaypowade/from-zero-to-hero-my-journey-into-ai-engineering-789012)
-- [Real-time Object Detection with YOLO and OpenCV](https://medium.com/@samaypowade/real-time-object-detection-with-yolo-and-opencv-345678)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 📞 Connect With Me
 
