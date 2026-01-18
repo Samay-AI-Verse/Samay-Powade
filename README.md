@@ -8,22 +8,22 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamayPowade&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="SamayPowade" />
+  <img src="https://komarev.com/ghpvc/?username=Samay-AI-Verse&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Samay-AI-Verse" />
 </p>
 
 ---
 
 <table>
   <tr>
-    <th align="center">📈 GitHub Statistics</th>
+    <th align="center">📊 GitHub Statistics</th>
     <th align="center">🔥 Contribution Streak</th>
   </tr>
   <tr>
     <td align="center">
-      <img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=SamayPowade&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=00adb5&icon_color=00adb5&text_color=ffffff" alt="GitHub Stats" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samay-AI-Verse&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=00adb5&icon_color=00adb5&text_color=ffffff" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img alt="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SamayPowade&theme=radical&hide_border=true&background=0d1117&stroke=00adb5&ring=00adb5&fire=00adb5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Samay-AI-Verse&theme=radical&hide_border=true&background=0d1117&stroke=00adb5&ring=00adb5&fire=00adb5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
@@ -56,13 +56,13 @@
   <tr>
     <td align="center">
       <details open><summary>Full year calendar</summary>
-        <img alt="" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=SamayPowade&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00adb5&text_color=ffffff" alt=""/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Samay-AI-Verse&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00adb5&text_color=ffffff" alt="Wakatime Stats"/>
       </details>
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
       <details open><summary>Top Languages</summary>
-        <img alt="" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamayPowade&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00adb5&text_color=ffffff&langs_count=8" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samay-AI-Verse&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00adb5&text_color=ffffff&langs_count=8" alt="Top Languages" />
       </details>
       <img width="900" height="1" alt="">
     </td>
@@ -74,13 +74,13 @@
   <tr>
     <td align="center">
       <details open><summary>Repository Stars Over Time</summary>
-        <img alt="" width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=SamayPowade&theme=react-dark&bg_color=0d1117&color=00adb5&line=00adb5&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samay-AI-Verse&theme=react-dark&bg_color=0d1117&color=00adb5&line=00adb5&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
       </details>
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
       <details open><summary>Code Contribution Stats</summary>
-        <img alt="" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamayPowade&theme=radical&utcOffset=5.5" alt="Productive Time" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samay-AI-Verse&theme=radical&utcOffset=5.5" alt="Productive Time" />
       </details>
       <img width="900" height="1" alt="">
     </td>
@@ -92,17 +92,17 @@
   <tr>
     <td align="center">
       <details open><summary>Latest Stars</summary>
-        <img alt="" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamayPowade&theme=radical" alt="Repos per Language" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samay-AI-Verse&theme=radical" alt="Repos per Language" />
       </details>
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
       <details open><summary>Technology Focus Areas</summary>
-        <p>
-          <img src="https://img.shields.io/badge/AI-Machine%20Learning-blueviolet?style=for-the-badge" />
-          <img src="https://img.shields.io/badge/LLMs-GPT%20|%20BERT-orange?style=for-the-badge" />
-          <img src="https://img.shields.io/badge/Full%20Stack-MERN%20|%20MEAN-green?style=for-the-badge" />
-        </p>
+        <br>
+        <img src="https://img.shields.io/badge/AI-Machine%20Learning-blueviolet?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/LLMs-GPT%20|%20BERT-orange?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Full%20Stack-MERN%20|%20MEAN-green?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red?style=for-the-badge" />
       </details>
       <img width="900" height="1" alt="">
     </td>
@@ -114,13 +114,13 @@
   <tr>
     <td align="center">
       <details open><summary>Development Patterns</summary>
-        <img alt="" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamayPowade&theme=radical" alt="Profile Details" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samay-AI-Verse&theme=radical" alt="Profile Details" />
       </details>
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
       <details open><summary>GitHub Trophies</summary>
-        <img src="https://github-profile-trophy.vercel.app/?username=SamayPowade&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Samay-AI-Verse&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
       </details>
       <img width="900" height="1" alt="">
     </td>
@@ -131,17 +131,24 @@
   </tr>
   <tr>
     <td align="center">
-      <details open><summary>Latest Actions</summary>
-        <img alt="" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SamayPowade&repo=VandanaAIVerse&theme=radical&hide_border=true&bg_color=0d1117&title_color=00adb5&icon_color=00adb5&text_color=ffffff" alt="Pinned Repo" />
+      <details open><summary>Latest GitHub Actions</summary>
+        <br>
+        <p align="left">
+          🔹 Recent commits across repositories<br>
+          🔹 Pull requests and code reviews<br>
+          🔹 Issue discussions and resolutions<br>
+          🔹 Repository stars and forks
+        </p>
       </details>
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
       <details open><summary>Visitor Analytics</summary>
-        <p align="center">
-          <img src="https://img.shields.io/github/followers/SamayPowade?label=Followers&style=social" alt="Followers" />
-          <img src="https://img.shields.io/github/stars/SamayPowade?label=Total%20Stars&color=yellow&style=social" alt="Stars" />
-        </p>
+        <br>
+        <img src="https://img.shields.io/github/followers/Samay-AI-Verse?label=Followers&style=social" alt="Followers" />
+        <img src="https://img.shields.io/github/stars/Samay-AI-Verse?label=Total%20Stars&color=yellow&style=social" alt="Stars" />
+        <br><br>
+        <img src="https://komarev.com/ghpvc/?username=Samay-AI-Verse&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
       </details>
       <img width="900" height="1" alt="">
     </td>
@@ -223,8 +230,8 @@
           <li>AI-powered risk assessment</li>
           <li>Multi-platform support</li>
         </ul>
-        <a href="https://github.com/SamayPowade/VandanaAIVerse">
-          <img src="https://img.shields.io/github/stars/SamayPowade/VandanaAIVerse?style=social" alt="Stars"/>
+        <a href="https://github.com/Samay-AI-Verse/VandanaAIVerse">
+          <img src="https://img.shields.io/github/stars/Samay-AI-Verse/VandanaAIVerse?style=social" alt="Stars"/>
         </a>
       </details>
       <img width="900" height="1" alt="">
@@ -303,8 +310,8 @@
           <li>Sentiment analysis</li>
           <li>Risk assessment</li>
         </ul>
-        <a href="https://github.com/SamayPowade/Stock-Market-Predictor">
-          <img src="https://img.shields.io/github/stars/SamayPowade/Stock-Market-Predictor?style=social" alt="Stars"/>
+        <a href="https://github.com/Samay-AI-Verse/Stock-Market-Predictor">
+          <img src="https://img.shields.io/github/stars/Samay-AI-Verse/Stock-Market-Predictor?style=social" alt="Stars"/>
         </a>
       </details>
       <img width="900" height="1" alt="">
@@ -324,14 +331,45 @@
           <li>Real-time genre prediction</li>
           <li>Web interface for audio upload</li>
         </ul>
-        <a href="https://github.com/SamayPowade/Music-Genre-Classification">
-          <img src="https://img.shields.io/github/stars/SamayPowade/Music-Genre-Classification?style=social" alt="Stars"/>
+        <a href="https://github.com/Samay-AI-Verse/Music-Genre-Classification">
+          <img src="https://img.shields.io/github/stars/Samay-AI-Verse/Music-Genre-Classification?style=social" alt="Stars"/>
         </a>
       </details>
       <img width="900" height="1" alt="">
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 GitHub Metrics Detailed View
+
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samay-AI-Verse&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=00adb5&icon_color=00adb5&text_color=ffffff" alt="GitHub Stats" />
+  
+  <!-- Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Samay-AI-Verse&theme=radical&hide_border=true&background=0d1117&stroke=00adb5&ring=00adb5&fire=00adb5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samay-AI-Verse&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00adb5&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Samay-AI-Verse&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samay-AI-Verse&theme=react-dark&bg_color=0d1117&color=00adb5&line=00adb5&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  
+</div>
 
 ---
 
@@ -399,8 +437,22 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamayPowade&theme=react-dark&bg_color=0d1117&color=00adb5&line=00adb5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samay-AI-Verse&theme=react-dark&bg_color=0d1117&color=00adb5&line=00adb5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
+
+---
+
+## 📈 GitHub Metrics
+
+<div align="center">
+  
+  <!-- Simple Metrics as Fallback -->
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/Samay-AI-Verse?label=Followers&style=social" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/Samay-AI-Verse?label=Total%20Stars&color=yellow&style=social" alt="Stars" />
+  </p>
+  
+</div>
 
 ---
 
@@ -408,9 +460,9 @@
   
   ### ⭐ Star Some Repositories! ⭐
   
-  [![Women's Safety AI](https://img.shields.io/github/stars/SamayPowade/VandanaAIVerse?style=social)](https://github.com/SamayPowade/VandanaAIVerse)
-  [![Stock Predictor](https://img.shields.io/github/stars/SamayPowade/Stock-Market-Predictor?style=social)](https://github.com/SamayPowade/Stock-Market-Predictor)
-  [![Music Genre](https://img.shields.io/github/stars/SamayPowade/Music-Genre-Classification?style=social)](https://github.com/SamayPowade/Music-Genre-Classification)
+  [![Women's Safety AI](https://img.shields.io/github/stars/Samay-AI-Verse/VandanaAIVerse?style=social)](https://github.com/Samay-AI-Verse/VandanaAIVerse)
+  [![Stock Predictor](https://img.shields.io/github/stars/Samay-AI-Verse/Stock-Market-Predictor?style=social)](https://github.com/Samay-AI-Verse/Stock-Market-Predictor)
+  [![Music Genre](https://img.shields.io/github/stars/Samay-AI-Verse/Music-Genre-Classification?style=social)](https://github.com/Samay-AI-Verse/Music-Genre-Classification)
   
 </div>
 
