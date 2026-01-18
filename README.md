@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samay-AI-Verse&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=00adb5&icon_color=00adb5&text_color=ffffff" alt="GitHub Stats" />
+      <img height="180em" src="https://pixel-profile.vercel.app/api/github-stats?username=Samay-AI-Verse&theme=fuji&pixelate_avatar=false" alt="GitHub Stats" />
     </td>
     <td align="center">
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Samay-AI-Verse&theme=radical&hide_border=true&background=0d1117&stroke=00adb5&ring=00adb5&fire=00adb5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
