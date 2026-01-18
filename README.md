@@ -1,8 +1,9 @@
 <img align="right" width="320"
      src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<div style="font-size:60px; font-weight:bold;">
-  <h1> Hi 👋, I'm Samay Powade</h1>
+<div style="font-size:32px; font-weight:bold;">
+ <h1 style = "border:none"> Hi 👋, I'm Samay Powade</h1>
+     
 </div>
 
 <div style="font-size:14px; color:#c9d1d9; margin-top:6px;">
@@ -10,6 +11,7 @@
 </div>
 
 <br clear="right"/>
+
 
 
 
