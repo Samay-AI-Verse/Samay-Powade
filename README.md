@@ -1,3 +1,5 @@
+# 📊 Metrics [<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="190" height="41">](https://www.producthunt.com/posts/github-metrics?utm_source=badge-featured&utm_medium=badge&utm_source=badge-github-metrics)
+
 <h1 align="center">Hi 👋, I'm Samay Powade</h1>
 <h3 align="center">🚀 AI Engineer | Generative AI Specialist | Full-Stack Developer</h3>
 
@@ -11,8 +13,27 @@
 
 ---
 
-## 🎯 About Me
-
+<table>
+  <tr>
+    <th align="center">📈 GitHub Statistics</th>
+    <th align="center">🔥 Contribution Streak</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=SamayPowade&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=00adb5&icon_color=00adb5&text_color=ffffff" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img alt="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SamayPowade&theme=radical&hide_border=true&background=0d1117&stroke=00adb5&ring=00adb5&fire=00adb5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" align="center">
+      <h3>🎯 About Me</h3>
+    </th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      
 - 🤖 **Aspiring AI Engineer** passionate about building intelligent systems with real-world impact
 - 🎓 Pursuing **B.Tech in Computer Engineering** with focus on Scalable Backend Systems & ML
 - 🧠 Deep interest in **LLMs, Neural Architecture, and Autonomous Agents**
@@ -20,6 +41,112 @@
 - 📫 **Email:** samaypowade9@gmail.com
 - 🌐 **Portfolio:** [samaypowade.netlify.app](https://samaypowade.netlify.app/#resume)
 - 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1RuYvEXnqqL98kyg8W9AvAON8_g87oBm4/view?usp=sharing)
+
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" align="center">
+      <h3>🧩 Customizable Metrics Showcase</h3>
+    </th>
+  </tr>
+  <tr>
+    <th>📅 Isometric Commit Calendar</th>
+    <th>🈷️ Languages Activity</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <details open><summary>Full year calendar</summary>
+        <img alt="" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=SamayPowade&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00adb5&text_color=ffffff" alt=""/>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <details open><summary>Top Languages</summary>
+        <img alt="" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamayPowade&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00adb5&text_color=ffffff&langs_count=8" alt="Top Languages" />
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th>✨ Stargazers Analytics</th>
+    <th>👨‍💻 Lines of Code Changed</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <details open><summary>Repository Stars Over Time</summary>
+        <img alt="" width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=SamayPowade&theme=react-dark&bg_color=0d1117&color=00adb5&line=00adb5&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <details open><summary>Code Contribution Stats</summary>
+        <img alt="" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamayPowade&theme=radical&utcOffset=5.5" alt="Productive Time" />
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th>🌟 Recently Starred Repositories</th>
+    <th>📌 Pinned Topics</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <details open><summary>Latest Stars</summary>
+        <img alt="" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamayPowade&theme=radical" alt="Repos per Language" />
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <details open><summary>Technology Focus Areas</summary>
+        <p>
+          <img src="https://img.shields.io/badge/AI-Machine%20Learning-blueviolet?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/LLMs-GPT%20|%20BERT-orange?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Full%20Stack-MERN%20|%20MEAN-green?style=for-the-badge" />
+        </p>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th>💡 Coding Habits & Activity</th>
+    <th>🏆 Achievements</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <details open><summary>Development Patterns</summary>
+        <img alt="" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamayPowade&theme=radical" alt="Profile Details" />
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <details open><summary>GitHub Trophies</summary>
+        <img src="https://github-profile-trophy.vercel.app/?username=SamayPowade&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th>📰 Recent Activity</th>
+    <th>🧮 Repository Traffic</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <details open><summary>Latest Actions</summary>
+        <img alt="" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SamayPowade&repo=VandanaAIVerse&theme=radical&hide_border=true&bg_color=0d1117&title_color=00adb5&icon_color=00adb5&text_color=ffffff" alt="Pinned Repo" />
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <details open><summary>Visitor Analytics</summary>
+        <p align="center">
+          <img src="https://img.shields.io/github/followers/SamayPowade?label=Followers&style=social" alt="Followers" />
+          <img src="https://img.shields.io/github/stars/SamayPowade?label=Total%20Stars&color=yellow&style=social" alt="Stars" />
+        </p>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -75,92 +202,172 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### **🛡️ [Women's Safety AI](https://github.com/SamayPowade/VandanaAIVerse)**
-**AI-powered ecosystem for real-time safety monitoring and emergency response**
-- Real-time threat detection using computer vision
-- Emergency alert system with location tracking
-- AI-powered risk assessment and response suggestions
-- Multi-platform support (Mobile, Web, Wearables)
-
-### **🤖 Sarathi Astra**
-**Advanced NotebookLM-style RAG system for document intelligence**
-- Upload and process PDFs, research papers, and documents
-- Contextual Q&A with accurate citation generation
-- Multi-document analysis and comparison
-- Insight extraction and summarization
-- Built with LangChain, Pinecone, and OpenAI
-
-### **🧠 ChetanaLabs (HR Calling Assistant)**
-**AI-powered HR voice assistant automating screening workflows**
-- Automated outbound candidate calling
-- Intelligent interview scheduling
-- Candidate intent detection and sentiment analysis
-- Automated call summaries and reporting
-- HR dashboard integration
-
-### **🌙 Dream Weaver**
-**Creative AI system for idea generation and storytelling**
-- Structured memory with LLM reasoning
-- Narrative and concept building assistance
-- Long-form content generation
-- Creative brainstorming for teams and individuals
-- Product ideation and validation
-
-### **🚁 Trinetra Drone System**
-**End-to-end AI-enabled drone ecosystem**
-- Mobile/web control application
-- Real-time telemetry and live video streaming
-- AI-based object detection and tracking
-- Autonomous navigation assistance
-- Mission analytics and reporting
-- Designed for defense, disaster response, and industrial inspection
-
-### **📊 [Stock Market Predictor](https://github.com/SamayPowade/Stock-Market-Predictor)**
-**ML-powered stock prediction system**
-- Time-series analysis and prediction
-- Technical indicator integration
-- Sentiment analysis from news and social media
-- Risk assessment and portfolio optimization
-
-### **🎵 [Music Genre Classification](https://github.com/SamayPowade/Music-Genre-Classification)**
-**Deep Learning based audio classification**
-- Audio feature extraction using MFCCs
-- CNN and LSTM neural networks
-- Real-time genre prediction
-- Web interface for audio upload and prediction
+<table>
+  <tr>
+    <th colspan="2" align="center">
+      <h2>🚀 Featured Projects Showcase</h2>
+    </th>
+  </tr>
+  <tr>
+    <th>🛡️ Women's Safety AI</th>
+    <th>🤖 Sarathi Astra (RAG System)</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <details open><summary>AI-powered safety ecosystem</summary>
+        <br>
+        <b>Key Features:</b>
+        <ul align="left">
+          <li>Real-time threat detection using CV</li>
+          <li>Emergency alert with GPS tracking</li>
+          <li>AI-powered risk assessment</li>
+          <li>Multi-platform support</li>
+        </ul>
+        <a href="https://github.com/SamayPowade/VandanaAIVerse">
+          <img src="https://img.shields.io/github/stars/SamayPowade/VandanaAIVerse?style=social" alt="Stars"/>
+        </a>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <details open><summary>Advanced NotebookLM-style system</summary>
+        <br>
+        <b>Key Features:</b>
+        <ul align="left">
+          <li>PDF & document processing</li>
+          <li>Contextual Q&A with citations</li>
+          <li>Multi-document analysis</li>
+          <li>Built with LangChain & Pinecone</li>
+        </ul>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th>🧠 ChetanaLabs (HR Assistant)</th>
+    <th>🌙 Dream Weaver (Creative AI)</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <details open><summary>AI voice assistant for HR</summary>
+        <br>
+        <b>Key Features:</b>
+        <ul align="left">
+          <li>Automated candidate calling</li>
+          <li>Intelligent scheduling</li>
+          <li>Sentiment analysis</li>
+          <li>Dashboard integration</li>
+        </ul>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <details open><summary>Creative ideation system</summary>
+        <br>
+        <b>Key Features:</b>
+        <ul align="left">
+          <li>Structured memory with LLM</li>
+          <li>Narrative building</li>
+          <li>Long-form content generation</li>
+          <li>Product ideation & validation</li>
+        </ul>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th>🚁 Trinetra Drone System</th>
+    <th>📊 Stock Market Predictor</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <details open><summary>AI-enabled drone ecosystem</summary>
+        <br>
+        <b>Key Features:</b>
+        <ul align="left">
+          <li>Real-time telemetry & video</li>
+          <li>AI object detection & tracking</li>
+          <li>Autonomous navigation</li>
+          <li>Mission analytics</li>
+        </ul>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <details open><summary>ML-powered predictions</summary>
+        <br>
+        <b>Key Features:</b>
+        <ul align="left">
+          <li>Time-series analysis</li>
+          <li>Technical indicators</li>
+          <li>Sentiment analysis</li>
+          <li>Risk assessment</li>
+        </ul>
+        <a href="https://github.com/SamayPowade/Stock-Market-Predictor">
+          <img src="https://img.shields.io/github/stars/SamayPowade/Stock-Market-Predictor?style=social" alt="Stars"/>
+        </a>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2">🎵 Music Genre Classification</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <details open><summary>Deep Learning audio classifier</summary>
+        <br>
+        <b>Key Features:</b>
+        <ul align="left">
+          <li>Audio feature extraction with MFCCs</li>
+          <li>CNN and LSTM neural networks</li>
+          <li>Real-time genre prediction</li>
+          <li>Web interface for audio upload</li>
+        </ul>
+        <a href="https://github.com/SamayPowade/Music-Genre-Classification">
+          <img src="https://img.shields.io/github/stars/SamayPowade/Music-Genre-Classification?style=social" alt="Stars"/>
+        </a>
+      </details>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 Achievements & Certifications
 
-<div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamayPowade&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=00adb5&icon_color=00adb5&text_color=ffffff" alt="GitHub Stats" />
-  
-  <!-- Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SamayPowade&theme=radical&hide_border=true&background=0d1117&stroke=00adb5&ring=00adb5&fire=00adb5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamayPowade&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00adb5&text_color=ffffff&langs_count=8" alt="Top Languages" />
-  
-</div>
+<table>
+  <tr>
+    <th>🥇 Competitions</th>
+    <th>📜 Certifications</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>🥇 <b>Google AI Hackathon 2024</b> - Winner (AI Safety)</li>
+        <li>🥈 <b>Smart India Hackathon 2023</b> - First Runner-up</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>📜 <b>Deep Learning Specialization</b> - DeepLearning.AI</li>
+        <li>☁️ <b>AWS Solutions Architect</b> - Associate</li>
+        <li>🤖 <b>Microsoft AI Engineer</b> - Certified Professional</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=SamayPowade&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-  
-</div>
+---
 
-<div align="center">
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamayPowade&theme=react-dark&bg_color=0d1117&color=00adb5&line=00adb5&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-  
-</div>
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Intelligent RAG Systems with LangChain](https://medium.com/@samaypowade/building-intelligent-rag-systems-with-langchain-123456)
+- [From Zero to Hero: My Journey into AI Engineering](https://medium.com/@samaypowade/from-zero-to-hero-my-journey-into-ai-engineering-789012)
+- [Real-time Object Detection with YOLO and OpenCV](https://medium.com/@samaypowade/real-time-object-detection-with-yolo-and-opencv-345678)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -189,36 +396,10 @@
 
 ---
 
-## 📈 GitHub Metrics
-
-<div align="center">
-  
-  <!-- Simple Metrics as Fallback -->
-  <p align="center">
-    <img src="https://img.shields.io/github/followers/SamayPowade?label=Followers&style=social" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/SamayPowade?label=Total%20Stars&color=yellow&style=social" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/SamayPowade?label=Total%20Forks&color=blue&style=social" alt="Forks" />
-    <img src="https://img.shields.io/github/repo-size/SamayPowade/SamayPowade?label=Repo%20Size&color=green&style=social" alt="Repo Size" />
-  </p>
-  
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Intelligent RAG Systems with LangChain](https://medium.com/@samaypowade/building-intelligent-rag-systems-with-langchain-123456)
-- [From Zero to Hero: My Journey into AI Engineering](https://medium.com/@samaypowade/from-zero-to-hero-my-journey-into-ai-engineering-789012)
-- [Real-time Object Detection with YOLO and OpenCV](https://medium.com/@samaypowade/real-time-object-detection-with-yolo-and-opencv-345678)
-<!-- BLOG-POST-LIST:END -->
-
-
-
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SamayPowade/SamayPowade/output/snake.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamayPowade&theme=react-dark&bg_color=0d1117&color=00adb5&line=00adb5&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
